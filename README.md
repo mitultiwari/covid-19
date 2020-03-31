@@ -7,7 +7,15 @@ World Health Organization WHO has launched a chatbot to answer Corona virus rela
 
 CDC symptoms guidelines https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
 
+On surfaces and aerosols
+https://www.nytimes.com/2020/03/17/health/coronavirus-surfaces-aerosols.html
+
+DIY Mask https://drive.google.com/file/d/1CI8AJzRgJHmY5VWlcbwplMtwTWeQfl9a/view
+
 Bleach as disinfectant https://www.dhhs.nh.gov/dphs/holu/documents/hom-sani.pdf
+
+How to stay sane during quarantine/lockdown  
+https://apple.news/Av2JTM8PfS6in7I08hFYDuA
 
 On mental wellness https://www.ndtv.com/health/coronavirus-outbreak-taking-a-toll-on-your-mental-health-follow-these-dos-and-donts-recommended-by-o-2198380
 
