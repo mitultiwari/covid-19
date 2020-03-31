@@ -12,14 +12,14 @@ https://www.nytimes.com/2020/03/17/health/coronavirus-surfaces-aerosols.html
 
 DIY Mask https://drive.google.com/file/d/1CI8AJzRgJHmY5VWlcbwplMtwTWeQfl9a/view
 
-Bleach as disinfectant https://www.dhhs.nh.gov/dphs/holu/documents/hom-sani.pdf
+Bleach as a disinfectant https://www.dhhs.nh.gov/dphs/holu/documents/hom-sani.pdf
 
 How to stay sane during quarantine/lockdown  
 https://apple.news/Av2JTM8PfS6in7I08hFYDuA
 
 On mental wellness https://www.ndtv.com/health/coronavirus-outbreak-taking-a-toll-on-your-mental-health-follow-these-dos-and-donts-recommended-by-o-2198380
 
-Mental health https://apple.news/Amf0RoeS0Tx644Cwo00VDLQ
+On mental health https://apple.news/Amf0RoeS0Tx644Cwo00VDLQ
 
 Drinking water https://apple.news/A-CPwPT1OQKunv8CIQ8VAVA
 
@@ -31,7 +31,6 @@ https://link.medium.com/yWDSTtjs24
 A detailed article on India context https://link.medium.com/1U7FfuPs24
 
 An informative Q&A with a virologist on Coronovirus https://www.caltech.edu/about/news/tip-iceberg-virologist-david-ho-bs-74-speaks-about-covid-19
-
 
 Science behind testing https://link.medium.com/KvnGAPYs24
 
