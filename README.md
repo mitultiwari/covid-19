@@ -7,6 +7,8 @@ World Health Organization WHO has launched a chatbot to answer Corona virus rela
 
 CDC symptoms guidelines https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
 
+Data by County and State: https://github.com/nytimes/covid-19-data, https://eventamplify.com/covid-curve
+
 On surfaces and aerosols
 https://www.nytimes.com/2020/03/17/health/coronavirus-surfaces-aerosols.html
 
