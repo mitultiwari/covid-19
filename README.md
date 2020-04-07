@@ -3,16 +3,27 @@ Covid 19 related resources
 
 Very informative website on Coronovirus: https://covid-at-home.info/
 
+Treatments
+* https://apple.news/AiQBNn1EEQ0y11EGrZmgpWA
+
 World Health Organization WHO has launched a chatbot to answer Corona virus related questions. Send a message on WhatsApp to this number to get started: +41 79 475 22 09
 
 CDC symptoms guidelines https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html
 
-Data by County and State: https://github.com/nytimes/covid-19-data, https://eventamplify.com/covid-curve
+Data:
+* Cases by county https://github.com/nytimes/covid-19-data/blob/master/us-counties.csv
+* https://eventamplify.com/covid-curve
+* https://covidtracking.com/data/
+* https://public.tableau.com/views/COVID-19PublicDashboard/Covid-19Public?:embed=y&:display_count=no&:showVizHome=no
+* https://covid19.calsurv.org/
+* https://www.stanforddaily.com/2020/03/24/visualized-covid-19-cases-in-santa-clara-county/
+
+DIY Mask https://drive.google.com/file/d/1CI8AJzRgJHmY5VWlcbwplMtwTWeQfl9a/view
+*     https://www.instructables.com/id/DIY-Cloth-Face-Mask/
 
 On surfaces and aerosols
 https://www.nytimes.com/2020/03/17/health/coronavirus-surfaces-aerosols.html
 
-DIY Mask https://drive.google.com/file/d/1CI8AJzRgJHmY5VWlcbwplMtwTWeQfl9a/view
 
 Bleach as a disinfectant https://www.dhhs.nh.gov/dphs/holu/documents/hom-sani.pdf
 
